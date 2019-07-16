@@ -1,6 +1,7 @@
 #Editor:-Nilay Trivedi
 #Date:-16/07/2019
 #This code is to export excel file into mysl database
+#Copy same code for different Appendex
 import pandas as pd
 import pymysql
 from sqlalchemy import create_engine
