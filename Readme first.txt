@@ -11,6 +11,7 @@ After executing code 1pdfconversion rename all the files by just removing .pdf f
 Step4:-
 Execute all the codes in the sequence in which it is uploaded or given.
 ***Important*****:-
+Before running any code,please make sure all the python modules are installed.
 The final excel file after executing all the codes will be of following names:-
 (final)appendexa
 (final)appendexb
